@@ -22,6 +22,7 @@ public class CCuenta {
      */
     public CCuenta()
     {
+        //COMENTARIO PARA PROBAR REPOSITORIO GITHUB
     }
 
     /**
